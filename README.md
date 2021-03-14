@@ -15,11 +15,11 @@ make mdx post file.
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g post-maker
+$ npm install -g @takashi-tkg/post-maker
 $ post-maker COMMAND
 running command...
 $ post-maker (-v|--version|version)
-post-maker/1.0.0 linux-x64 node-v14.4.0
+@takashi-tkg/post-maker/1.0.0 linux-x64 node-v14.4.0
 $ post-maker --help [COMMAND]
 USAGE
   $ post-maker COMMAND

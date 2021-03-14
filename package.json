@@ -1,5 +1,5 @@
 {
-  "name": "post-maker",
+  "name": "@takashi-tkg/post-maker",
   "description": "make mdx post file.",
   "version": "1.0.0",
   "author": "umeken",
@@ -12,13 +12,13 @@
     "@oclif/config": "^1",
     "@oclif/plugin-help": "^3",
     "inquirer": "^8.0.0",
-    "tslib": "^1"
+    "tslib": "^1",
+    "ts-node": "^8"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1",
     "@types/inquirer": "^7.3.1",
     "@types/node": "^10",
-    "ts-node": "^8",
     "typescript": "^3.3"
   },
   "engines": {
@@ -32,7 +32,7 @@
   "keywords": [
     "oclif"
   ],
-  "license": "MIT",
+  "license": "UNLICENSED",
   "main": "lib/index.js",
   "oclif": {
     "bin": "post-maker"
